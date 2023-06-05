@@ -20,6 +20,13 @@ npx create-expo-app my-app
 
 ```
 
+#### Run and build locally
+
+```bash
+# pnpm dlx expo run:android
+pnpm i && pnpm dlx expo . -p android
+```
+
 
 #### Scaffold the project's code
 
